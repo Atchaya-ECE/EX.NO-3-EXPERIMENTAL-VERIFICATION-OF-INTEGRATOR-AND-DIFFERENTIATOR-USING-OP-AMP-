@@ -64,7 +64,8 @@ We know the frequency at which the gain is 0 dB, fb = 1 / (2π R1 Cf) Therefore 
 
 
 ## TABULATION
-<img width="1003" height="1280" alt="image" src="https://github.com/user-attachments/assets/9a08c5f3-db6b-4051-b407-10ed416b53c2" />
+<img width="1280" height="469" alt="image" src="https://github.com/user-attachments/assets/dfc837be-82b9-4c03-a22c-0eccc66b1223" />
+
 	
 
 ---
@@ -73,7 +74,7 @@ We know the frequency at which the gain is 0 dB, fb = 1 / (2π R1 Cf) Therefore 
 
 
 ## OUT PUT WAVEFORM
-<img width="1280" height="469" alt="image" src="https://github.com/user-attachments/assets/dfc837be-82b9-4c03-a22c-0eccc66b1223" />
+<img width="1003" height="1280" alt="image" src="https://github.com/user-attachments/assets/9a08c5f3-db6b-4051-b407-10ed416b53c2" />
 
 
 ---
@@ -157,10 +158,11 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 <img width="1280" height="561" alt="image" src="https://github.com/user-attachments/assets/5fc80cff-f29c-4ec5-ad63-03ccf27800ac" />
 
 ## CALCULATION
-<img width="937" height="1280" alt="image" src="https://github.com/user-attachments/assets/b3469842-a42a-4a12-b38e-a0435be1b576" />
+<img width="2240" height="2032" alt="image" src="https://github.com/user-attachments/assets/9fa399b6-18a3-477e-affa-48d8d84cbc27" />
+
 
 ## OUT PUT WAVEFORM 
-<img width="2240" height="2032" alt="image" src="https://github.com/user-attachments/assets/9fa399b6-18a3-477e-affa-48d8d84cbc27" />
+<img width="937" height="1280" alt="image" src="https://github.com/user-attachments/assets/b3469842-a42a-4a12-b38e-a0435be1b576" />
 
 
 ---
