@@ -1,7 +1,7 @@
-3. ##**EX.NO:
+## **EX.NO:
 ** 3  EXPERIMENTAL VERIFICATION OF INTEGRATOR AND DIFFERENTIATOR USING OP-AMP 
             
-**DATE:**  
+
              3A INTEGRATOR
 ---
 
@@ -38,6 +38,8 @@ CIRCUIT DIAGRAM
 ## CIRCUIT DIAGRAM
 <img width="698" height="423" alt="image" src="https://github.com/user-attachments/assets/f007b349-f96e-42d3-acd3-a37119fc16fc" />
 
+<img width="1280" height="903" alt="image" src="https://github.com/user-attachments/assets/3465385f-09f8-452e-9813-f403cb92cbd8" />
+
 
 ## MODEL GRAPH
 <img width="556" height="380" alt="image" src="https://github.com/user-attachments/assets/caa7461c-69f7-4636-8e31-eea6db6efbb5" />
@@ -50,7 +52,8 @@ CIRCUIT DIAGRAM
 
 To obtain the output of an Integrator circuit with component values R1Cf = 0.1ms , Rf = 10 R1 and Cf = 0.01 µF and also if 1 V peak square wave at 1000Hz is applied as input.
 We know the frequency at which the gain is 0 dB, fb = 1 / (2π R1 Cf) Therefore fb = 	 Since fb = 10 fa , and also the gain limiting frequency fa = 1 / (2π Rf Cf)
-We get , R1 =	and hence Rf = 	
+
+<img width="1280" height="1069" alt="image" src="https://github.com/user-attachments/assets/3609431e-e9df-41ee-821f-eb1b25c334bb" />
 
 ## PROCEDURE
 
@@ -61,15 +64,16 @@ We get , R1 =	and hence Rf =
 
 
 ## TABULATION
-| Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
-|----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
-		
+<img width="1003" height="1280" alt="image" src="https://github.com/user-attachments/assets/9a08c5f3-db6b-4051-b407-10ed416b53c2" />
+	
 
 ---
+## CALCULATION
+<img width="1280" height="621" alt="image" src="https://github.com/user-attachments/assets/762878b3-b293-4ed8-b1f7-eaca5a16f137" />
 
-## OUT PUT WAVEFORM AND DISCUSSION 
+
+## OUT PUT WAVEFORM
+<img width="1280" height="469" alt="image" src="https://github.com/user-attachments/assets/dfc837be-82b9-4c03-a22c-0eccc66b1223" />
 
 
 ---
@@ -111,6 +115,7 @@ The differentiator is most commonly used in wave shaping circuits to detect high
 ## CIRCUIT DIAGRAM
 <img width="760" height="414" alt="image" src="https://github.com/user-attachments/assets/6ee3caf5-d5de-4c38-8ebe-7ff5add6c9cd" />
 
+<img width="1280" height="993" alt="image" src="https://github.com/user-attachments/assets/803b2c3a-fa9f-4606-9c3f-8cb471b8aca5" />
 
 
 ## MODEL GRAPH
@@ -149,13 +154,14 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 
  ## TABULATION
-| Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
-|----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
-		
+<img width="1280" height="561" alt="image" src="https://github.com/user-attachments/assets/5fc80cff-f29c-4ec5-ad63-03ccf27800ac" />
 
-## OUT PUT WAVEFORM AND DISCUSSION 
+## CALCULATION
+<img width="937" height="1280" alt="image" src="https://github.com/user-attachments/assets/b3469842-a42a-4a12-b38e-a0435be1b576" />
+
+## OUT PUT WAVEFORM 
+<img width="2240" height="2032" alt="image" src="https://github.com/user-attachments/assets/9fa399b6-18a3-477e-affa-48d8d84cbc27" />
+
 
 ---
 
