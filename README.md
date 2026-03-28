@@ -1,8 +1,5 @@
-## **EX.NO:
-** 3  EXPERIMENTAL VERIFICATION OF INTEGRATOR AND DIFFERENTIATOR USING OP-AMP 
-            
+## **EX.NO: ** 3  EXPERIMENTAL VERIFICATION OF INTEGRATOR AND DIFFERENTIATOR USING OP-AMP 
 
-             3A INTEGRATOR
 ---
 
 ## AIM
@@ -167,9 +164,9 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 
 ---
 
-RESULT:
+## RESULT:
 Thus an Integrator and Differentiator using op-amp are designed and their performance was successfully tested using op-amp IC 741.
----
+
 
 
 
